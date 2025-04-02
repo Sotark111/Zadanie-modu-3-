@@ -195,13 +195,3 @@ footer {
     color: gold;
 }
 
-@media (max-width: 768px) {
-    .footer .container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .footer-icons {
-        margin-top: 10px;
-    }
-}
