@@ -170,9 +170,9 @@ footer {
     background-color: #f8f8f8;
     padding: 20px;
     display: flex;
-    justify-content: center; /* Wyśrodkowanie całej zawartości */
+    justify-content: center;
     align-items: center;
-    gap: 20px; /* Odstęp między tekstem a ikonami */
+    gap: 20px; 
     text-align: center;
 }
 
